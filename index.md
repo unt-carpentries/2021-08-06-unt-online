@@ -260,6 +260,14 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h2 id="registration">Registration</h2>
+<div class="list-group">
+  <a href="https://www.eventbrite.com/e/unt-library-carpentry-regular-expressions-august-6-2021-tickets-163575128613" class="list-group-item list-group-item-warning">Regular Expressions Registration</a>
+  <a href="https://www.eventbrite.com/e/unt-library-carpentry-openrefine-august-13-2021-tickets-163578376327" class="list-group-item list-group-item-warning">OpenRefine Registration</a>
+  <a href="https://www.eventbrite.com/e/unt-library-carpentry-sql-august-20-2021-tickets-163579367291" class="list-group-item list-group-item-warning">SQL Registration</a>
+</div>
+<hr/>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
