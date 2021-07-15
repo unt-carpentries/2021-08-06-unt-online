@@ -18,7 +18,7 @@
 # When setting this field to "pilot", please uncomment the
 # pilot_lesson_site, pilot_pre_survey, and pilot_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "lc"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -48,7 +48,7 @@ flavor: "FIXME"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "UNT Library Carpentry, August 6-20, 2021"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
@@ -96,8 +96,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/carpentries/workshop-template"
-workshop_site: "https://carpentries.github.io/workshop-template"
+workshop_repo: "https://github.com/unt-carpentries/2021-08-06-unt-online"
+workshop_site: "https://unt-carpentries.github.io/2021-08-06-unt-online/"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
