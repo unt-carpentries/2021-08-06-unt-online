@@ -332,6 +332,10 @@ change the value of `carpentry` to `pilot`.
 
 <hr/>
 
+<h2 id="documents">Documents</h2>
+<p><a href="files/regex_reference.pdf">Regular Expressions Cheatsheet</a></p>
+<p><a href="files/regular_expressions_presentation.pdf">Regular Expressions Presentation (pdf)</a></p>
+<hr/>
 
 {% comment %}
 SCHEDULE
